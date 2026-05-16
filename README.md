@@ -22,6 +22,7 @@ I'm a 3rd year Statistics and Data Science student at SDU University, focused on
 ![CNN](https://img.shields.io/badge/CNN-Transfer%20Learning-blueviolet?style=flat)
 ![SVM](https://img.shields.io/badge/SVM-lightgrey?style=flat)
 ![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22?style=flat)
+
 **Data & Viz**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
