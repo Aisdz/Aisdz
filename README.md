@@ -11,7 +11,11 @@ I'm a 3rd year Statistics and Data Science student at SDU University, focused on
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
 
 **ML / DL**
 
