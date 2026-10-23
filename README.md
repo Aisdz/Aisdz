@@ -55,6 +55,16 @@ Image classification system for 10 waste categories using Transfer Learning (Eff
 
 ---
 
+## 🔨 Currently Working On
+
+### 🤖 TrashScan: waste classifier as a Telegram bot & web app
+The next iteration of my waste classification project, now moving from notebook to deployment. A Telegram bot and a Flask web app share one inference module: you send a photo, get the category, and confirm or correct the answer. Confirmed photos are saved as labeled real-world data for the next model version.
+`Python` `TensorFlow` `scikit-learn` `Flask` `Telegram Bot`
+
+<img width="1209" height="1047" alt="Screenshot 2026-10-23 at 12 47 03" src="https://github.com/user-attachments/assets/1b63d7fb-27b6-45f2-a726-6598e2806d55" />
+
+---
+
 ## 🎓 Education
 
 **SDU University** — 4th year B.Sc. Statistics and Data Science
