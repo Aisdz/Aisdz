@@ -6,6 +6,10 @@ I'm a 4th year Statistics and Data Science student at SDU University, focused on
 
 ---
 
+## My CV
+- [Download my CV](https://github.com/Aisdz/Aisdz/blob/main/cv_aisultan.pdf?raw=1)
+
+
 ## 🛠️ Tech Stack
 
 **Languages**
